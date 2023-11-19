@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MadhviMalviya
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning JS,Reactjs.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning NodeJs.
 - 📫 How to reach me madhvimalviya1@gmail.com 
 
 <!---
